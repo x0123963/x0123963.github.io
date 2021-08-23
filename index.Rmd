@@ -1,5 +1,9 @@
 ---
-title: "Personal Website"
+title: "Chiung-Yu (Lisa) Chang"
 ---
 
-Hello, World!
+## Welcome to my website!
+  <br>
+My name is Chiung-Yu Chang, written as 張瓊予 in Mandarin Chinese. I also frequently use the name Lisa Chang.
+  <br>
+I am interested in psycho-/neurolinguistics and cognitive neuroscience. My recent research has focused on speech perception and lexical access. [More about me](about.html)

@@ -1,5 +1,33 @@
 ---
 title: "About me"
 ---
+  <br>
 
-Hello, World!
+## Education  
+
+**M.A. in Linguistics**  
+National Tsing Hua University, Hsinchu, Taiwan
+
+**B.S. in Interdisciplinary Program of Life Sciences**  
+with specialties in *Life Science* & *Foreign Languages and Literature*  
+National Tsing Hua University, Hsinchu, Taiwan
+  
+  <br>
+  
+## Working  
+  
+**Research assistant**  
+Neurolinguistics Laboratory  
+National Tsing Hua University, Hsinchu, Taiwan  
+
+  <br>
+  
+## Other Academic Experience  
+  
+**Visiting student**  
+2016 International Summer College  
+Ewha Womans University, Seoul, Korea  
+  
+**2014 Summer school student**  
+Institute of Statistical Science  
+Academia Sinica, Taipei, Taiwan  

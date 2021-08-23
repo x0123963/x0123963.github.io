@@ -1,9 +1,11 @@
 name: "personal-website"
 output_dir: "."
 navbar:
-  title: "Personal Website"
+  title: "Chiung-Yu (Lisa) Chang"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Research"
+      href: research.html
