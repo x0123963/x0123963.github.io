@@ -2,8 +2,10 @@
 title: "Chiung-Yu (Lisa) Chang"
 ---
 
-## Welcome to my website!
-  <br>
-My name is Chiung-Yu Chang, written as 張瓊予 in Mandarin Chinese. I also frequently use the name Lisa Chang.
-  <br>
-I am interested in psycho-/neurolinguistics and cognitive neuroscience. My recent research has focused on speech perception and lexical access. [More about me](about.html)
+## Welcome to my website!  
+
+  <br>  
+
+My name is **Chiung-Yu Chang**, written as **張瓊予** in Mandarin Chinese. I also use the name **Lisa Chang** frequently.
+  <br>  
+I am interested in **psycho-/neurolinguistics** and **cognitive neuroscience**. My recent research has focused on speech perception and lexical access. [More about me](about.html)
