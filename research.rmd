@@ -19,7 +19,8 @@ spoken word recognition? Evidence from phonotactic processing.
 **Chang, C.-Y.** & F.-F. Hsieh (2020). Electrophysiological responses to tone- and
 segment-induced phonotactic anomalies. Paper presented at Exploring Interfaces #4:
 Natural Language and Neural Network, November 27, Hsinchu, Taiwan.  
-Chang, C.-Y. (2020). An acoustic study of monophthongs in Takibakha Bunun. Paper
+
+**Chang, C.-Y.** (2020). An acoustic study of monophthongs in Takibakha Bunun. Paper
 presented at National Conference on Linguistics 2020, November 14, Kaohsiung, Taiwan.  
 
 **Chang, C.-Y.** & F.-F. Hsieh (2019). Neural responses to tonal and segmental gaps in
