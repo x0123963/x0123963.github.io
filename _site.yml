@@ -1,5 +1,11 @@
 name: "personal-website"
 output_dir: "."
+output:
+  html_document:
+    theme:
+      bootswatch: minty
+    include:
+      after_body: _footer.html
 navbar:
   title: "Chiung-Yu (Lisa) Chang"
   left:
