@@ -11,6 +11,6 @@ title: "Ongoing projects"
   - Does **attention** play a role in the detection of violation?
 
 2. Quantifying consonant-tone interaction in words and nonwords  (with Prof. Feng-fan Hsieh)  
-  Some consonantal onsets rarely co-occur with certain lexical tones. For example, sonorant onsets (e.g., [m]) seldom appear with Tone 1. However, there are still many counterexamples to these generalizations. Thus, we proposed a measure, **tone-consonant co-occurrence probability (TCCP)**, to describe the distribution of consonantal onsets and lexical tones. 
+  In Mandarin Chinese, some consonantal onsets rarely co-occur with certain lexical tones. For example, sonorant onsets (e.g., [m]) seldom appear with Tone 1. However, there are still many counterexamples to these generalizations. Thus, we proposed a measure, **tone-consonant co-occurrence probability (TCCP)**, to describe the distribution of consonantal onsets and lexical tones. 
 - In our [preliminary study](https://doi.org/10.36505/ExLing-2020/11/0017/000432), we conducted a judgment experiment to see whether the new measure reflects the native speakers' **acceptability of words and nonwords**.  
 - Our next step is to do a **full-scale experiment** and compare TCCP with other measures of phonotactic probability, such as the output of the Maximum Entropy Model.
