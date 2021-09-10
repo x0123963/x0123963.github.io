@@ -1,38 +1,56 @@
 ---
-title: "About me"
+title: "Profile"
 output:
   html_document:
     toc: true
 ---
-  <br>
-
 ## Education  
 
 **M.A. in Linguistics**  
 National Tsing Hua University, Hsinchu, Taiwan  
+Thesis: *Neural responses to syllable gaps in Taiwanese Mandarin: an event-related potential study*  
+Sept. 2016 - Feb. 2020  
 
 **B.S. in Interdisciplinary Program of Life Sciences**  
 with specialties in *Life Science* & *Foreign Languages and Literature*  
-National Tsing Hua University, Hsinchu, Taiwan
-  
-  <br>
-  
+National Tsing Hua University, Hsinchu, Taiwan  
+Sept. 2012 - Jul. 2016  
+
+<div style="margin-bottom:35px;">
+</div>
+
 ## Research Experience  
-  
+
 **Research assistant**  
-Neurolinguistics Laboratory  
+[Neurolinguistics Laboratory](https://sites.google.com/view/neuroling/)  
 National Tsing Hua University, Hsinchu, Taiwan  
 
 **Graduate student**  
-Phonetics Laboratory  
+[Phonetics Laboratory](http://homepage.ling.nthu.edu.tw/phonlab/)  
 National Tsing Hua University, Hsinchu, Taiwan
 
 **Undergraduate student**  
-Language and Cognitive Neurology Laboratory  
+[Language and Cognitive Neurology Laboratory](https://sites.google.com/view/neuroling504)  
 National Tsing Hua University, Hsinchu, Taiwan  
 
-  <br>
+<div style="margin-bottom:35px;">
+</div>
+
+## Other Academic Experience  
+**Neuroscience and Neuroimaging Specialization**  
+Johns Hopkins University (via Coursera.com)  
+in progress  
+**Visiting student**  
+2016 International Summer College  
+Ewha Womans University, Seoul, Korea  
   
+**2014 Summer school student**  
+Institute of Statistical Science  
+Academia Sinica, Taipei, Taiwan  
+
+<div style="margin-bottom:35px;">
+</div>
+
 ## Teaching/Working  
 
 **Webmaster**  
@@ -49,19 +67,22 @@ National Tsing Hua University, Hsinchu, Taiwan
 
 **Research assistant of Book Purchase Project**  
 Project: Conservation and revitalization of endangered languages  
-PI: Prof. Hsiu-Chuan Liao  
+PI: [Prof. Hsiu-Chuan Liao](http://homepage.ling.nthu.edu.tw/faculty/hcliao/index.html)  
 
-**Summer Intern**  
+**Summer Intern in 2013**  
 Dr. Cecilia Koo Botanic Conservation Center, Pingtung, Taiwan  
+Project: A comparative study of leaf morphology of native *Camellia* species in Taiwan
 
-  <br>
+<div style="margin-bottom:35px;">
+</div>
 
-## Other Academic Experience  
-  
-**Visiting student**  
-2016 International Summer College  
-Ewha Womans University, Seoul, Korea  
-  
-**2014 Summer school student**  
-Institute of Statistical Science  
-Academia Sinica, Taipei, Taiwan  
+## Awards & Honors
+**Fulbright scholar candidate**  
+**Honorary Member of Phi Tau Phi Scholastic Honor Society**  
+**Academic Excellence Awards**  
+National Tsing Hua University, Fall 2012 - Fall 2013, Fall 2014 - Fall 2015  
+**Dean’s List, College of Life Science**, NTHU, Fall 2012 - Spring 2014 (all eligible semesters)  
+**Summer school fellowship ($358)**  
+Institute of Statistical Science, Academia Sinica, 2014
+**New Undergraduate Merit Scholarship ($14,310)**  
+National Tsing Hua University, 2012 - 2016

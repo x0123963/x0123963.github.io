@@ -11,7 +11,18 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
+    - text: "About"
       href: about.html
     - text: "Research"
-      href: research.html
+      menu:
+      - text: Publications & Presentations
+        href: output.html
+      - text: Ongoing projects
+        href: project.html
+  right:
+    - icon: fab fa-facebook-square
+      href: https://www.facebook.com/cychang.lisa/
+    - icon: fas fa-envelope
+      href: mailto:cychang.lisa@m101.nthu.edu.tw
+    - icon: fab fa-researchgate
+      href: https://www.researchgate.net/profile/Chiung-Yu-Chang
