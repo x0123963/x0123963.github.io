@@ -1,0 +1,49 @@
+---
+title: "Miscellaneous"
+---
+<div style="margin-bottom:35px;">
+</div>
+
+I assisted in the following projects with varying duties:  
+
+#### Language and Cognitive Neurology Laboratory  
+PI: Prof. Fan-Pei Gloria Yang  
+
+- Different cognitive mechanisms underlying Chinese and Chinese Sign Language  
+  (Co-PI: Prof. Minghu Jiang from Tsinghua University, Beijing, China)  
+    - assisted in experimental design and writing the grant proposal  
+    - applied for the approval of the research ethics committee  
+    
+- Investigation of enhanced cognitive networks with task-activated fMRI and DTI  
+    - scheduled and guided the cognitive training sessions  
+    - developed the training materials in Mandarin Chinese  
+
+#### Phonetics Laboratory  
+PIs: Prof. Yueh-chin Chang & Prof. Feng-fan Hsieh  
+
+- Gemination in prosodically weak elements in Taiwanese Southern Min and Hakka  
+    - recorded, transcribed, and analyzed acoustic data  
+    
+- A phonetic and phonological study of Penang Hokkien  
+    - arranged and analyzed acoustic data  
+    - recruited and mentored a team of 4 members  
+    
+- Coarticulatory patterns of nasal rimes in Taiwanese Mandarin and Southern Min  
+    - ran electromagnetic articulography experiments  
+    - ordered and managed laboratory supplies  
+    - wrote customized R and MATLAB scripts  
+
+## Selected coursework projects  
+I have written term papers based on these projects. If you are interested in these works, the manuscripts and slides are available upon request.
+
+- The effect of perceptual similarity on second language learners’ processing of Taiwanese tone sandhi  
+*L2 Phonological Acquisition: Theory, Methods, and Pedagogy*  
+Instructor: Prof. Tsung-Ying Chen  
+
+- The exception of NC̥ effect in Standard Malay (with Phaik Gek Lim)  
+*Phonology (II)*    
+Instructor: Prof. Feng-fan Hsieh  
+
+- An acoustic and electroglottographic study on contextual variations of Korean stop contrast (with Phaik Gek Lim and Dabin Eun)  
+*Articulatory Phonetics*  
+Instructor: Prof. Yueh-chin Chang  

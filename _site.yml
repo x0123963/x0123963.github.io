@@ -19,6 +19,8 @@ navbar:
         href: output.html
       - text: Ongoing projects
         href: project.html
+      - text: Miscellaneous
+        href: past.html
   right:
     - icon: fab fa-facebook-square
       href: https://www.facebook.com/cychang.lisa/
