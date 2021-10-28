@@ -5,8 +5,8 @@ title: "Ongoing projects"
 </div>
 
 1. Pre-attentive processing of tone sandhi in Mandarin Chinese  (PI: Prof. Jo-Fu Lotus Lin)  
-  There are four lexical tones in Mandarin Chinese: a high level tone (Tone 1), a rising tone (Tone 2), a low dipping tone (Tone 3), and a falling tone (Tone 4). When an underlying tone 3 is followed by another tone 3, it surfaces as rising tone. This phonological rule is termed as tone 3 sandhi.  
-  In this ERP study, we investigate **how the brain responses to the violation of the tone 3 sandhi rule**, i.e., two surface tone 3 in a row. We further ask:
+  There are four lexical tones in Mandarin Chinese: a high level tone (Tone 1), a rising tone (Tone 2), a low dipping tone (Tone 3), and a falling tone (Tone 4). When an underlying tone 3 is followed by another tone 3, it surfaces as a rising tone. This phonological rule is termed as tone 3 sandhi.  
+  In this ERP study, we investigate **how the brain responds to the violation of the tone 3 sandhi rule**, i.e., two surface tone 3 in a row. We further ask:
   - How does **repeated exposure** to the violation influence brain responses?
   - Does **attention** play a role in the detection of violation?
 
@@ -16,5 +16,5 @@ title: "Ongoing projects"
 - Our next step is to do a **full-scale experiment** and compare TCCP with other measures of phonotactic probability, such as the output of the Maximum Entropy Model.   
 
 3. Sex differences in humor styles and coping humor  (PI: Prof. Yu-Chen Chan)    
-  This study aims to explore **how sex difference relates to humor styles and coping humor**, with a special focus on **aggressive humor**. We utilize two-panel comics to contrast aggressive and non-aggressive humor. Apart from behavioral responses, we will conduct fMRI and EEG experiments to understand the roles of sex and aggression in humor appreciation at the neural level.  
+  This study explores **how sex difference relates to humor styles and coping humor**, with a particular focus on **aggressive humor**. We utilize two-panel comics to contrast aggressive and non-aggressive humor. Apart from behavioral responses, we will conduct fMRI and EEG experiments to understand the roles of sex and aggression in humor appreciation at the neural level.  
   In collaboration with Hsinchu Mackay Memorial Hospital and National Taiwan University Hospital in Taipei, We will also recruit **patients with depression and anxiety**. Our long-term goal is to develop a humor training intervention tailored to Chinese culture.
