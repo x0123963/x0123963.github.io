@@ -6,18 +6,15 @@ title: "Miscellaneous"
 
 I assisted in the following projects with varying duties:  
 
-#### Language and Cognitive Neurology Laboratory  
-PI: Prof. Fan-Pei Gloria Yang  
+#### Neurolinguistics Laboratory
+PI: Prof. Jo-Fu Lotus Lin
 
-- Different cognitive mechanisms underlying Chinese and Chinese Sign Language  
-  (Co-PI: Prof. Minghu Jiang from Tsinghua University, Beijing, China)  
-    - assisted in experimental design and writing the grant proposal  
-    - applied for the approval of the research ethics committee  
+- Pre-attentive processing of tone sandhi in Mandarin Chinese
+    - analyzed EEG data (preprocessing and statistical tests)
+    - collected and arranged EEG data according to the BIDS format
+    - wrote Praat scripts to edit a batch of auditory stimuli
+    - created E-prime programs for controlling experiments
     
-- Investigation of enhanced cognitive networks with task-activated fMRI and DTI  
-    - scheduled and guided the cognitive training sessions  
-    - developed the training materials in Mandarin Chinese  
-
 #### Phonetics Laboratory  
 PIs: Prof. Yueh-chin Chang & Prof. Feng-fan Hsieh  
 
@@ -32,6 +29,18 @@ PIs: Prof. Yueh-chin Chang & Prof. Feng-fan Hsieh
     - ran electromagnetic articulography experiments  
     - ordered and managed laboratory supplies  
     - wrote customized R and MATLAB scripts  
+
+#### Language and Cognitive Neurology Laboratory  
+PI: Prof. Fan-Pei Gloria Yang  
+
+- Different cognitive mechanisms underlying Chinese and Chinese Sign Language  
+  (Co-PI: Prof. Minghu Jiang from Tsinghua University, Beijing, China)  
+    - assisted in experimental design and writing the grant proposal  
+    - applied for the approval of the research ethics committee  
+    
+- Investigation of enhanced cognitive networks with task-activated fMRI and DTI  
+    - scheduled and guided the cognitive training sessions  
+    - developed the training materials in Mandarin Chinese  
 
 ## Selected coursework projects  
 I have written term papers based on these projects. If you are interested in these works, the manuscripts and slides are available upon request.

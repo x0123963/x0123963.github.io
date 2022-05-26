@@ -22,8 +22,6 @@ navbar:
       - text: Miscellaneous
         href: past.html
   right:
-    - icon: fab fa-facebook-square
-      href: https://www.facebook.com/cychang.lisa/
     - icon: fas fa-envelope
       href: mailto:cychang.lisa@m101.nthu.edu.tw
     - icon: fab fa-researchgate
