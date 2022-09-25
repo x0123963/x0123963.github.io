@@ -5,7 +5,7 @@ title: "Research"
 </div>
 
 ## Publications
-**Chang, C.-Y.** & F.-F. Hsieh (accepted). Do subsyllabic units play a role in Mandarin spoken word recognition? Evidence from phonotactic processing. To appear in *Journal of Neurolinguistics*.  
+**Chang, C.-Y.** & F.-F. Hsieh (2022). Do subsyllabic units play a role in Mandarin spoken word recognition? Evidence from phonotactic processing. *Journal of Neurolinguistics, 64*, 101089. [DOI: 10.1016/j.jneuroling.2022.101089](https://doi.org/10.1016/j.jneuroling.2022.101089)    
 
 **Chang, C.-Y.** & F.-F. Hsieh (2020). Tone-consonant co-occurrence probability in Mandarin.
 *Proceedings of ExLing 2020*, 69-72. [DOI: 10.36505/ExLing-2020/11/0017/000432](https://doi.org/10.36505/ExLing-2020/11/0017/000432)  
@@ -15,10 +15,6 @@ title: "Research"
 </div>
 
 ## Conference presentations  
-**Chang, C.-Y.**, F.-F. Hsieh, Y.-C. Chang, J.-F. L. Lin (2021). Tracking lexical tone processing in the human auditory pathway. Poster presented at Symposium of NTHU Multidisciplinary and Competitive Programs for MOE Higher Education Sprout Project, December 8, Virtual meeting.   
-
-**Chang, C.-Y.** & F.-F. Hsieh (2020). Electrophysiological responses to tone- and segment-induced phonotactic anomalies. Paper presented at Exploring Interfaces #4: Natural Language and Neural Network, November 27, Hsinchu, Taiwan.  
-
 **Chang, C.-Y.** (2020). An acoustic study of monophthongs in Takibakha Bunun. Paper presented at National Conference on Linguistics 2020, November 14, Kaohsiung, Taiwan.  
 
 **Chang, C.-Y.** & F.-F. Hsieh (2019). Neural responses to tonal and segmental gaps in Mandarin Chinese. Paper presented at Hanyang International Symposium on Phonetics and Cognitive Sciences of Language 2019, May 24-25, Seoul, South Korea.  
@@ -30,4 +26,14 @@ Brain Mapping, June 26-30, Geneva, Switzerland.
 </div>
 
 ## Manuscript
-**Chang, C.-Y.** & F.-F. Hsieh (in prep). Consonant-tone interaction in Mandarin Chinese: a quantitative approach.
+**Chang, C.-Y.** & F.-F. Hsieh (in prep). Toward a quantitative approach to Consonant-tone interaction in Mandarin Chinese.  
+
+Chen, S.-C. & **C.-Y. Chang** (in prep). Vowel systems of Taiwanese Southern Min: a cross-dialectal acoustic study.
+
+<div style="margin-bottom:35px;">
+</div>
+
+## Invited presentations
+**Chang, C.-Y.**, F.-F. Hsieh, Y.-C. Chang, J.-F. L. Lin (2021). Tracking lexical tone processing in the human auditory pathway. Poster presented at Symposium of NTHU Multidisciplinary and Competitive Programs for MOE Higher Education Sprout Project, December 8, Virtual meeting.   
+
+**Chang, C.-Y.** & F.-F. Hsieh (2020). Electrophysiological responses to tone- and segment-induced phonotactic anomalies. Paper presented at Exploring Interfaces #4: Natural Language and Neural Network, November 27, Hsinchu, Taiwan.  

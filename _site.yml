@@ -17,12 +17,10 @@ navbar:
       menu:
       - text: Publications & Presentations
         href: output.html
-      - text: Ongoing projects
-        href: project.html
       - text: Miscellaneous
         href: past.html
   right:
     - icon: fas fa-envelope
-      href: mailto:cychang.lisa@m101.nthu.edu.tw
+      href: mailto:chiungyuchan$at$umass.edu
     - icon: fab fa-researchgate
       href: https://www.researchgate.net/profile/Chiung-Yu-Chang
