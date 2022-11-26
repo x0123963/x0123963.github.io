@@ -17,6 +17,8 @@ navbar:
       menu:
       - text: Publications & Presentations
         href: output.html
+      - text: Ongoing projects
+        href: project.html
       - text: Miscellaneous
         href: past.html
   right:
