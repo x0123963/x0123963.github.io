@@ -1,6 +1,4 @@
----
-title: "Presentations"
----
+
 <div style="margin-bottom:35px;">
 </div>
 

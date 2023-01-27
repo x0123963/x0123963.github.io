@@ -22,57 +22,11 @@ Sept. 2012 - Jul. 2016
 <div style="margin-bottom:35px;">
 </div>
 
-## Research Experience  
-
-**Research assistant**  
-[Cognition, Humor and Affect Neuroscience Lab](https://mx.nthu.edu.tw/~ycchan/)  
-National Tsing Hua University, Hsinchu, Taiwan  
-Oct. 2021 - Feb. 2022 (part-time)  
-Mar. 2021 - Jul. 2022 (full-time)  
-
-**Research assistant**  
-Neurolinguistics Laboratory   
-National Tsing Hua University, Hsinchu, Taiwan  
-Feb. 2020 - Feb. 2022
-
-**Graduate student**  
-[Phonetics Laboratory](http://ling.hss.nthu.edu.tw/PhonLab/)  
-National Tsing Hua University, Hsinchu, Taiwan  
-Aug. 2016 - Feb. 2020  
-
-**Undergraduate student**  
-[Language and Cognitive Neurology Laboratory](https://sites.google.com/view/neuroling504)  
-National Tsing Hua University, Hsinchu, Taiwan  
-Jul. 2014 - Jun. 2016  
-
-<div style="margin-bottom:35px;">
-</div>
-
-## Other Academic Training 
-**Neuroscience and Neuroimaging Specialization**  
-Johns Hopkins University (via Coursera)  
-[Completion by 2022](https://coursera.org/share/d619ef92db4ef6d85e40896bdc5ed8ec)
-
-**Visiting student**  
-2016 International Summer College  
-Ewha Womans University, Seoul, Korea  
-  
-**2014 Summer school student**  
-Institute of Statistical Science  
-Academia Sinica, Taipei, Taiwan  
-
-<div style="margin-bottom:35px;">
-</div>
-
-## Teaching/Working  
+## Teaching 
 **Teaching assistant of Introductory Psychology**  
 Department of Psychological and Brain Sciences  
 University of Massachusetts Amherst, United States  
 
-**Search Engine Evaluator**  
-TELUS International  
-
-**Webmaster**  
 **Teaching assistant of Experimental phonetics**  
 **Teaching assistant of Phonology (I)**  
 **Teaching assistant of Undergraduate Phonetics**  
@@ -84,6 +38,22 @@ National Tsing Hua University, Hsinchu, Taiwan
 Department of Foreign Languages & Literature  
 National Tsing Hua University, Hsinchu, Taiwan 
 
+<div style="margin-bottom:35px;">
+</div>
+
+## Working
+
+**Research assistant**  
+National Tsing Hua University, Hsinchu, Taiwan  
+(see details [here](past.html))
+
+**Search Engine Evaluator**  
+TELUS International  
+
+**Webmaster**  
+Institute of Linguistics  
+National Tsing Hua University, Hsinchu, Taiwan  
+
 **Research assistant of Book Purchase Project**  
 Project: Conservation and revitalization of endangered languages  
 PI: [Prof. Hsiu-chuan Liao](http://ling.hss.nthu.edu.tw/faculty/hcliao/index.html)  
@@ -92,6 +62,22 @@ PI: [Prof. Hsiu-chuan Liao](http://ling.hss.nthu.edu.tw/faculty/hcliao/index.htm
 Dr. Cecilia Koo Botanic Conservation Center, Pingtung, Taiwan  
 Project: A comparative study of leaf morphology of native *Camellia* species in Taiwan  
 Onsite Supervisor: Mr. Jun-Nan Yang
+
+<div style="margin-bottom:35px;">
+</div>
+
+## Additional Training 
+**Neuroscience and Neuroimaging Specialization**  
+Johns Hopkins University  
+(via [Coursera](https://coursera.org/share/d619ef92db4ef6d85e40896bdc5ed8ec))
+
+**Visiting student**  
+2016 International Summer College  
+Ewha Womans University, Seoul, Korea  
+  
+**2014 Summer school student**  
+Institute of Statistical Science  
+Academia Sinica, Taipei, Taiwan  
 
 <div style="margin-bottom:35px;">
 </div>
