@@ -1,0 +1,19 @@
+---
+title: "Publications"
+---
+<div style="margin-bottom:35px;">
+</div>
+
+**Chang, C.-Y.** & F.-F. Hsieh (2022). Do subsyllabic units play a role in Mandarin spoken word recognition? Evidence from phonotactic processing. *Journal of Neurolinguistics, 64*, 101089. [DOI: 10.1016/j.jneuroling.2022.101089](https://doi.org/10.1016/j.jneuroling.2022.101089)    
+
+**Chang, C.-Y.** & F.-F. Hsieh (2020). Tone-consonant co-occurrence probability in Mandarin.
+*Proceedings of ExLing 2020*, 69-72. [DOI: 10.36505/ExLing-2020/11/0017/000432](https://doi.org/10.36505/ExLing-2020/11/0017/000432)  
+[[Youtube video of the oral presentation]](https://youtu.be/b4HUAjVrkzw) 
+
+<div style="margin-bottom:35px;">
+</div>
+
+## Manuscripts
+**Chang, C.-Y.** & F.-F. Hsieh (in prep). Limited generalizability of probabilistic consonant-tone interaction in Mandarin nonwords.  
+
+Chen, S.-C. & **C.-Y. Chang** (in prep). A comparative acoustic study of Taiwanese Southern Min dialects in Hsinfeng and Hsinchu City.  

@@ -15,8 +15,10 @@ navbar:
       href: about.html
     - text: "Research"
       menu:
-      - text: Publications & Presentations
-        href: output.html
+      - text: Publications
+        href: publications.html
+      - text: Presentations
+        href: presentations.html
       - text: Ongoing projects
         href: project.html
       - text: Miscellaneous

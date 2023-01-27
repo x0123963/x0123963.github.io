@@ -5,4 +5,12 @@ title: "Ongoing projects"
 </div>
 
 **ERP responses to violations of morphophonological rules, phonological expectations, and phonetic cues**  
-(Advised by Profs. Lisa Sanders and Alexandra Jesse)    
+(Advised by Profs. Lisa Sanders and Alexandra Jesse)  
+
+The phonetic realization of the English regular plural suffix is determined by its preceding context. When the stem ends with a non-sibilant sound, the suffix and the preceding sound agrees in voicing. It surfaces as /z/ after voiced sounds (e.g., [dogz] 'dogs') and /s/ after voiceless sounds (e.g., [kæts] 'cats').  
+
+By presenting listeners with various types of violations of this morphophonological rule, this study aims to determine:  
+
+1. the representation and processing of allomorphs during speech comprehension
+2. whether congruency of phonetic cues and phonotactic status influence morphophonological processing
+3. how predictability modulates other factors  
