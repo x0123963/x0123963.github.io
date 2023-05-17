@@ -3,9 +3,11 @@
 </div>
 
 ## Conference presentations  
+**Chang, C.-Y.**, A. Jesse, L. D. Sanders (2023). Event-related potential responses to morphophonological violations. Talk to be given at Hanyang International Symposium on Phonetics and Cognitive Sciences of Language 2023, May 26-27, Seoul, South Korea.
+
 **Chang, C.-Y.** (2020). An acoustic study of monophthongs in Takibakha Bunun. Paper presented at National Conference on Linguistics 2020, November 14, Kaohsiung, Taiwan.  
 
-**Chang, C.-Y.** & F.-F. Hsieh (2019). Neural responses to tonal and segmental gaps in Mandarin Chinese. Paper presented at Hanyang International Symposium on Phonetics and Cognitive Sciences of Language 2019, May 24-25, Seoul, South Korea.  
+**Chang, C.-Y.** & F.-F. Hsieh (2019). Neural responses to tonal and segmental gaps in Mandarin Chinese. Talk given at Hanyang International Symposium on Phonetics and Cognitive Sciences of Language 2019, May 24-25, Seoul, South Korea.  
 
 Yang, F.-P. G., **C.-Y. Chang**, S. C. LaHue, S. R. Cooper, T. L. Luks, P. Mukherjee (2016). The semantic memory deficits after traumatic brain injury: a functional magnetic resonance imaging study. Poster presented at 22nd Annual Meeting of the Organization for Human
 Brain Mapping, June 26-30, Geneva, Switzerland.  
@@ -14,7 +16,7 @@ Brain Mapping, June 26-30, Geneva, Switzerland.
 </div>
 
 ## Invited presentations
-**Chang, C.-Y.** (2023). Probing the mental representation of speech sounds with nonexistent combinations. Talk to be given at Taiwanese Young Researcher Association.  
+**Chang, C.-Y.** (2023). Probing the mental representation of speech sounds with nonexistent combinations. Talk given at Taiwanese Young Researcher Association, April 29, Virtual meeting.   
 
 **Chang, C.-Y.**, F.-F. Hsieh, Y.-C. Chang, J.-F. L. Lin (2021). Tracking lexical tone processing in the human auditory pathway. Poster presented at Symposium of NTHU Multidisciplinary and Competitive Programs for MOE Higher Education Sprout Project, December 8, Virtual meeting.   
 
