@@ -5,7 +5,7 @@ output:
     toc: true
 ---
 ## Education  
-**MSc/PhD in Cognition and Cognitive Neuroscience**  
+**PhD in Cognition and Cognitive Neuroscience**  
 University of Massachusetts Amherst, United States  
 Sept. 2022 - present  
 
@@ -67,6 +67,10 @@ Onsite Supervisor: Mr. Jun-Nan Yang
 </div>
 
 ## Additional Training 
+**2023 Summer Institute student**  
+Linguistic Society of America  
+University of Massachusetts Amherst, United States
+
 **Neuroscience and Neuroimaging Specialization**  
 Johns Hopkins University  
 (via [Coursera](https://coursera.org/share/d619ef92db4ef6d85e40896bdc5ed8ec))
@@ -83,11 +87,11 @@ Academia Sinica, Taipei, Taiwan
 </div>
 
 ## Awards & Honors
-**University Graduate Fellowship**  
-University of Massachusetts Amherst, 2022 - 2023  
+**Graduate Study Award (US$63,600)**  
+Foundation for Scholarly Exchange (Fulbright Taiwan), 2022 - 2024
 
-**Graduate Study Award (US$31,800)**  
-Foundation for Scholarly Exchange (Fulbright Taiwan), 2022 - 2023  
+**University Graduate Fellowship**  
+University of Massachusetts Amherst, 2022 - 2023    
 
 **Honorary Member of Phi Tau Phi Scholastic Honor Society**  
 Nominated by National Tsing Hua University, 2016  
