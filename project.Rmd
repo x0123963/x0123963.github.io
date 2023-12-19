@@ -7,12 +7,12 @@ title: "Ongoing projects"
 **Testing the role of perceptual saliency in tonogenesis**  
 (Advised by Dr. Lisa Sanders)  
 
-F0 perturbation caused by adjacent consonants is thought to be a possible trigger of tonogenesis, i.e., the emergence of tone in initially non-tonal languages. During this process, the F0 difference presumably becomes larger in magnitude and longer in duration, making it perceptually more salient. Thus, listeners may possibly increase the perceptual weight of F0 while increasing the weight of consonant phonation.  
+F0 perturbation caused by adjacent consonants is thought to be a possible trigger of tonogenesis, i.e., the emergence of tone in initially non-tonal languages. During this process, the F0 difference presumably becomes larger in magnitude and longer in duration, making it perceptually more salient. Thus, listeners may possibly increase the perceptual weight of F0 while decreasing the weight of consonant phonation.  
 
 Using English stop voicing as a testing case, this study examines cue weightings of VOT and F0. Specifically, we ask: 
 
 - Does **exaggerated F0 perturbation magnitude and/or duration** beyond the range of natural speech further increase the cue weighting of F0?
-- As F0 is more robust to noise, does **the presence of noise** modulate the F0 perturbation effects?   
+- As F0 is more robust to noise, does **the presence of noise** modulate the F0 perturbation effects?
 
 <div style="margin-bottom:35px;">
 </div>
