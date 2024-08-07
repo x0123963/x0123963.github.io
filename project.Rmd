@@ -4,15 +4,25 @@ title: "Ongoing projects"
 <div style="margin-bottom:35px;">
 </div>
 
-**Testing the role of perceptual saliency in tonogenesis**  
+**Testing the roles of post-consonantal F0 perturbation and noise in tonogenesis**  
 (Advised by Dr. Lisa Sanders)  
 
 F0 perturbation caused by adjacent consonants is thought to be a possible trigger of tonogenesis, i.e., the emergence of tone in initially non-tonal languages. During this process, the F0 difference presumably becomes larger in magnitude and longer in duration, making it perceptually more salient. Thus, listeners may possibly increase the perceptual weight of F0 while decreasing the weight of consonant phonation.  
 
 Using English stop voicing as a testing case, this study examines cue weightings of VOT and F0. Specifically, we ask: 
 
-- Does **exaggerated F0 perturbation magnitude and/or duration** beyond the range of natural speech further increase the cue weighting of F0?
+- Does **the temporal extent of F0 perturbation** contribute to voicing perception?
 - As F0 is more robust to noise, does **the presence of noise** modulate the F0 perturbation effects?
+
+<div style="margin-bottom:35px;">
+</div>
+
+**How learnable is adult statistical learning? A critical review of literature since Saffran, Newport, and Aslin (1996)**  
+
+[Saffran, Newport, and Aslin (1996)](https://doi.org/10.1006/jmla.1996.0032) demonstrated that adults can recognize words of an artificial language above chance after mere exposure to statistical regularities in the speech stream. This seminal work led to a resurgence of language scientists’ interests in how experience contributes to language acquisition. Although statistical learning in adults has been replicated in many studies, null effects have also been reported in the literature. Therefore, this project aims to:  
+
+- critically review the statistical analyses performed by Saffran, Newport, and Aslin (1996)  
+- conduct a publication-bias-adjusted meta-analysis of subsequent literature to estimate effect size  
 
 <div style="margin-bottom:35px;">
 </div>
