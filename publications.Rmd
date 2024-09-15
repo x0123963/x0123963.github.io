@@ -8,12 +8,11 @@ title: "Publications"
 
 **Chang, C.-Y.** & F.-F. Hsieh (2020). Tone-consonant co-occurrence probability in Mandarin.
 *Proceedings of ExLing 2020*, 69-72. [DOI: 10.36505/ExLing-2020/11/0017/000432](https://doi.org/10.36505/ExLing-2020/11/0017/000432)  
-[[Youtube video of the oral presentation]](https://youtu.be/b4HUAjVrkzw) 
 
 <div style="margin-bottom:35px;">
 </div>
 
 ## Manuscripts
-**Chang, C.-Y.** & F.-F. Hsieh (in prep). Limited generalizability of probabilistic consonant-tone interaction in Mandarin nonwords.  
+**Chang, C.-Y.** & F.-F. Hsieh (in prep). Toning down the gap: A visual take on Mandarin phonotactics.   
 
-**Chang, C.-Y.** & Chen, S.-C. (in prep). A comparative acoustic study of Taiwanese Southern Min dialects in Hsinfeng and Hsinchu City.  
+**Chang, C.-Y.** & L. D. Sanders (in prep). Testing the roles of post-consonantal F0 perturbation and noise in tonogenesis.  

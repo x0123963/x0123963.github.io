@@ -7,7 +7,7 @@ title: "Welcome to my website!"
 
 My name is Chiung-Yu Chang, written as 張瓊予 in Mandarin Chinese. I also go by Lisa.  
 
-I am a rising third-year PhD student in the Department of Psychological & Brain Sciences at the University of Massachusetts Amherst. My research interests lie primarily in the **speech sounds** and **cognitive neuroscience of human languages**.  
+I am a third-year PhD student in the Department of Psychological & Brain Sciences at the University of Massachusetts Amherst. My research interests lie primarily in the **speech sounds** and **cognitive neuroscience of human languages**.  
 
 Currently, I am working on speech perception outside typical laboratory settings, such as in background noise and under limited attention. Capitalizing on recent advances in cognitive neuroscience, I am also developing more naturalistic methods to study speech perception.
 
