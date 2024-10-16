@@ -4,6 +4,8 @@ title: "Publications"
 <div style="margin-bottom:35px;">
 </div>
 
+**Chang, C.-Y.** & L. D. Sanders (in press). Testing the roles of post-consonantal F0 perturbation and noise in tonogenesis. To appear in *Proceedings of the 60th Annual Meeting of the Chicago Linguistic Society*.  
+
 **Chang, C.-Y.** & F.-F. Hsieh (2022). Do subsyllabic units play a role in Mandarin spoken word recognition? Evidence from phonotactic processing. *Journal of Neurolinguistics, 64*, 101089. [DOI: 10.1016/j.jneuroling.2022.101089](https://doi.org/10.1016/j.jneuroling.2022.101089)    
 
 **Chang, C.-Y.** & F.-F. Hsieh (2020). Tone-consonant co-occurrence probability in Mandarin.
@@ -13,6 +15,4 @@ title: "Publications"
 </div>
 
 ## Manuscripts
-**Chang, C.-Y.** & F.-F. Hsieh (in prep). Toning down the gap: A visual take on Mandarin phonotactics.   
-
-**Chang, C.-Y.** & L. D. Sanders (in prep). Testing the roles of post-consonantal F0 perturbation and noise in tonogenesis.  
+**Chang, C.-Y.** & F.-F. Hsieh (in preparation). Toning down the gap: A visual take on Mandarin phonotactics.   
