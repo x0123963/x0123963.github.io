@@ -15,4 +15,10 @@ title: "Publications"
 </div>
 
 ## Manuscripts
-**Chang, C.-Y.** & F.-F. Hsieh (in preparation). Toning down the gap: A visual take on Mandarin phonotactics.   
+
+<div style="margin-bottom:35px;">
+</div>
+
+**Chang, C.-Y.** & F.-F. Hsieh (in preparation). Probabilistic consonant-tone interaction in Mandarin Chinese is not generalizable to nonce words.   
+
+**Chang, C.-Y.** (in preparation). How reliable is adult statistical learning? A critical review of literature since Saffran, Newport, and Aslin (1996).  
