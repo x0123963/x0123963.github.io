@@ -3,7 +3,9 @@
 </div>
 
 ## Conference presentations  
-**Chang, C.-Y.** & L. D. Sanders (2025). Decoding phonetic cue weighting from EEG: a representational similarity approach. Poster to be presented at the 2025 Annual Meeting of Taiwan Society of Cognitive Neuroscience, January 11, Taoyuan, Taiwan.  
+**Chang, C. Y.**, A. Jesse, L. D. Sanders (2025). Do listeners access abstract morphological representations while processing speech? A representational similarity analysis of event-related potentials. Poster to be presented at 32th Annual Meeting of the Cognitive Neuroscience Society, March 29-April 1, Boston, United States.  
+
+**Chang, C.-Y.** & L. D. Sanders (2025). Decoding phonetic cue weighting from EEG: a representational similarity approach. Poster presented at the 2025 Annual Meeting of Taiwan Society of Cognitive Neuroscience, January 11, Taoyuan, Taiwan.  
 
 **Chang, C.-Y.** & L. D. Sanders (2024). On the temporal aspect of post-consonantal fundamental frequency perturbation in English voicing perception. Talk given at the 187th Meeting of the Acoustical Society of America, November 18-22, Virtual meeting.  
 

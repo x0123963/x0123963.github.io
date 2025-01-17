@@ -1,8 +1,6 @@
 ---
 title: "Publications"
 ---
-<div style="margin-bottom:35px;">
-</div>
 
 **Chang, C.-Y.** & L. D. Sanders (in press). Testing the roles of post-consonantal F0 perturbation and noise in tonogenesis. To appear in *Proceedings of the 60th Annual Meeting of the Chicago Linguistic Society*.  
 
@@ -14,11 +12,8 @@ title: "Publications"
 <div style="margin-bottom:35px;">
 </div>
 
-## Manuscripts
+## Manuscripts  
 
-<div style="margin-bottom:35px;">
-</div>
+**Chang, C.-Y.** (submitted). How reliable is adult statistical learning? A critical review of literature since Saffran, Newport, and Aslin (1996).  [[preprint]](https://doi.org/10.31234/osf.io/js97h)
 
 **Chang, C.-Y.** & F.-F. Hsieh (in preparation). Probabilistic consonant-tone interaction in Mandarin Chinese is not generalizable to nonce words.   
-
-**Chang, C.-Y.** (in preparation). How reliable is adult statistical learning? A critical review of literature since Saffran, Newport, and Aslin (1996).  

@@ -17,16 +17,6 @@ Using English stop voicing as a testing case, this study examines cue weightings
 <div style="margin-bottom:35px;">
 </div>
 
-**How learnable is adult statistical learning? A critical review of literature since Saffran, Newport, and Aslin (1996)**  
-
-[Saffran, Newport, and Aslin (1996)](https://doi.org/10.1006/jmla.1996.0032) demonstrated that adults can recognize words of an artificial language above chance after mere exposure to statistical regularities in the speech stream. This seminal work led to a resurgence of language scientists’ interests in how experience contributes to language acquisition. Although statistical learning in adults has been replicated in many studies, null effects have also been reported in the literature. Therefore, this project aims to:  
-
-- critically review the statistical analyses performed by Saffran, Newport, and Aslin (1996)  
-- conduct a publication-bias-adjusted meta-analysis of subsequent literature to estimate effect size  
-
-<div style="margin-bottom:35px;">
-</div>
-
 **ERP responses to violations of morphophonological rules, phonological expectations, and phonetic cues**  
 (PI: Dr. Lisa Sanders; Co-PI: Dr. Alexandra Jesse)
 

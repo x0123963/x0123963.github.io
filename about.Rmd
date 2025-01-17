@@ -43,31 +43,6 @@ National Tsing Hua University, Hsinchu, Taiwan
 <div style="margin-bottom:35px;">
 </div>
 
-## Working
-
-**Research assistant**  
-National Tsing Hua University, Hsinchu, Taiwan  
-(see details [here](past.html))
-
-**Search engine evaluator**  
-TELUS International  
-
-**Webmaster**  
-Institute of Linguistics  
-National Tsing Hua University, Hsinchu, Taiwan  
-
-**Research assistant of Book Purchase Project**  
-Project: Conservation and revitalization of endangered languages  
-PI: [Prof. Hsiu-chuan Liao](http://ling.hss.nthu.edu.tw/faculty/hcliao/index.html)  
-
-**Summer Intern in 2013**  
-Dr. Cecilia Koo Botanic Conservation Center, Pingtung, Taiwan  
-Project: A comparative study of leaf morphology of native *Camellia* species in Taiwan  
-Onsite Supervisor: Mr. Jun-Nan Yang
-
-<div style="margin-bottom:35px;">
-</div>
-
 ## Additional Training 
 **2023 Summer Institute student**  
 Linguistic Society of America  
@@ -89,6 +64,9 @@ Academia Sinica, Taipei, Taiwan
 </div>
 
 ## Selected Awards & Honors
+**Excellent Student Paper Award**  
+Taiwan Society of Cognitive Neuroscience Annual Meeting, 2025  
+
 **Graduate School Predissertation Research Grant (US$1,300)**  
 University of Massachusetts Amherst, 2024
 
@@ -102,4 +80,29 @@ University of Massachusetts Amherst, 2022 - 2023
 Nominated by National Tsing Hua University, 2016  
 
 **New Undergraduate Merit Scholarship (NT$400,000)**    
-National Tsing Hua University, 2012 - 2016  
+National Tsing Hua University, 2012 - 2016   
+
+<div style="margin-bottom:35px;">
+</div>
+
+## Working
+
+**Research assistant**  
+National Tsing Hua University, Hsinchu, Taiwan  
+(see details [here](past.html))
+
+**Search engine evaluator**  
+TELUS International  
+
+**Webmaster**  
+Institute of Linguistics  
+National Tsing Hua University, Hsinchu, Taiwan  
+
+**Research assistant of Book Purchase Project**  
+Project: Conservation and revitalization of endangered languages  
+PI: [Prof. Hsiu-chuan Liao](http://ling.hss.nthu.edu.tw/faculty/hcliao/index.html)  
+
+**Summer Intern in 2013**  
+Dr. Cecilia Koo Botanic Conservation Center, Pingtung, Taiwan  
+Project: A comparative study of leaf morphology of native *Camellia* species in Taiwan  
+Onsite Supervisor: Mr. Jun-Nan Yang
