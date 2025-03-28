@@ -1,6 +1,21 @@
 ---
 title: "Ongoing projects"
 ---
+
+<div style="margin-bottom:35px;">
+</div>
+
+**Phonetic cue weighting under divided attention**  
+(Advised by Dr. Alexandra Jesse and Dr. Lisa Sanders)  
+
+Much of our knowledge of speech perception came from experiments conducted in highly controlled environments. However, in real life, listeners’ attention is not always entirely dedicated to speech, differing from the typical setup of perceptual experiments.  
+
+This study aims to investigate how divided attention affects speech perception, such as in some classroom scenarios. We ask participants to perform a secondary task and a speech perception task to answer the following questions:  
+
+1. Does distraction interfere with the early perceptual processing of speech or the retention of speech percepts in memory?  
+2. What characteristics of distractors influence the nature and extent of such interference?
+
+
 <div style="margin-bottom:35px;">
 </div>
 

@@ -14,6 +14,6 @@ title: "Publications"
 
 ## Manuscripts  
 
-**Chang, C.-Y.** (submitted). How reliable is adult statistical learning? A critical review of literature since Saffran, Newport, and Aslin (1996).  [[preprint]](https://doi.org/10.31234/osf.io/js97h)
+**Chang, C.-Y.** (under review). How reliable is adult statistical learning? A critical review of literature since Saffran, Newport, and Aslin (1996).  [[preprint]](https://doi.org/10.31234/osf.io/js97h)
 
-**Chang, C.-Y.** & F.-F. Hsieh (in preparation). Probabilistic consonant-tone interaction in Mandarin Chinese is not generalizable to nonce words.   
+**Chang, C.-Y.** & F.-F. Hsieh (under review). Probabilistic consonant-tone interaction in Mandarin Chinese is not generalizable to nonce words.   
