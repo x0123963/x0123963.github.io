@@ -3,7 +3,11 @@
 </div>
 
 ## Conference presentations  
-**Chang, C. Y.**, A. Jesse, L. D. Sanders (2025). Do listeners access abstract morphological representations while processing speech? A representational similarity analysis of event-related potentials. Poster to be presented at 32th Annual Meeting of the Cognitive Neuroscience Society, March 29-April 1, Boston, United States.  
+**Chang, C.-Y.** & L. D. Sanders (2025). Decoding phonetic cue weighting from electroencephalography responses to naturalistic speech. Poster to be presented at the Society for the Neurobiology of Language 17th Annual Meeting, September 12-14, Washington DC, United States.  
+
+**Chang, C.-Y.** & L. D. Sanders (2025). The relationship between musical experience and cue reweighting in speech perception. Poster to be presented at the 2025 Annual Meeting of the Cognitive Science Society, July 30-August 2, San Francisco, United States.  
+
+**Chang, C. Y.**, A. Jesse, L. D. Sanders (2025). Do listeners access abstract morphological representations while processing speech? A representational similarity analysis of event-related potentials. Poster presented at 32th Annual Meeting of the Cognitive Neuroscience Society, March 29-April 1, Boston, United States.  
 
 **Chang, C.-Y.** & L. D. Sanders (2025). Decoding phonetic cue weighting from EEG: a representational similarity approach. Poster presented at the 2025 Annual Meeting of Taiwan Society of Cognitive Neuroscience, January 11, Taoyuan, Taiwan.  
 
