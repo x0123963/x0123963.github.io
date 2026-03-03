@@ -4,6 +4,9 @@ output:
   html_document:
     toc: true
 ---
+
+[Full CV](CV_CYChang_public.pdf)
+
 ## Education  
 **PhD in Cognition and Cognitive Neuroscience**  
 University of Massachusetts Amherst, United States  
@@ -98,7 +101,7 @@ National Tsing Hua University, Hsinchu, Taiwan
 
 **Research Assistant of Book Purchase Project**  
 Project: Conservation and revitalization of endangered languages  
-PI: [Prof. Hsiu-chuan Liao](http://ling.hss.nthu.edu.tw/faculty/hcliao/index.html)  
+PI: [Prof. Hsiu-chuan Liao](https://sites.google.com/faculty.hss.nthu.edu.tw/dr-hsiu-chuan-liao)  
 
 **Summer Intern in 2013**  
 Dr. Cecilia Koo Botanic Conservation Center, Pingtung, Taiwan  

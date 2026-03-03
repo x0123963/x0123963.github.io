@@ -2,9 +2,9 @@
 title: "Publications"
 ---
 
-**Chang, C.-Y.** & L. D. Sanders (accepted). Phonetic cue weighting as auditory feature-based selective attention. To appear in *Psychonomic Bulletin & Review*.
+**Chang, C.-Y.** & L. D. Sanders (2026). Phonetic cue weighting as auditory feature-based selective attention. *Psychonomic Bulletin & Review, 33*(1), 43. [DOI: 10.3758/s13423-025-02834-y](https://doi.org/10.3758/s13423-025-02834-y)
 
-**Chang, C.-Y.** & L. D. Sanders (in press). Testing the roles of post-consonantal F0 perturbation and noise in tonogenesis. To appear in *Proceedings of the 60th Annual Meeting of the Chicago Linguistic Society*.  
+**Chang, C.-Y.** & L. D. Sanders (2025). Testing the roles of post-consonantal F0 perturbation and noise in tonogenesis. *Proceedings of the 60th Annual Meeting of the Chicago Linguistic Society*, 97-111.  
 
 **Chang, C.-Y.** & F.-F. Hsieh (2022). Do subsyllabic units play a role in Mandarin spoken word recognition? Evidence from phonotactic processing. *Journal of Neurolinguistics, 64*, 101089. [DOI: 10.1016/j.jneuroling.2022.101089](https://doi.org/10.1016/j.jneuroling.2022.101089)    
 
@@ -16,6 +16,6 @@ title: "Publications"
 
 ## Manuscripts  
 
-**Chang, C.-Y.** & F.-F. Hsieh (under revision). Probabilistic consonant-tone interaction in Mandarin Chinese is not generalizable to nonce words.   
+**Chang, C.-Y.** (resubmitted). How reliable is adult statistical learning? A critical review of literature since Saffran, Newport, and Aslin (1996).  [[preprint]](https://doi.org/10.31234/osf.io/js97h)  
 
-**Chang, C.-Y.** (under revision). How reliable is adult statistical learning? A critical review of literature since Saffran, Newport, and Aslin (1996).  [[preprint]](https://doi.org/10.31234/osf.io/js97h)  
+**Chang, C.-Y.** & F.-F. Hsieh (in preparation). Probabilistic consonant-tone interaction in Mandarin Chinese is not generalizable to nonce words.   
