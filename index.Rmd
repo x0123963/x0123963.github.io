@@ -11,7 +11,8 @@ I am a PhD candidate in the Department of Psychological & Brain Sciences at the 
 
 Currently, I am working on speech perception outside typical laboratory settings, such as in background noise and under limited attention. Capitalizing on recent advances in cognitive neuroscience, I am also developing more naturalistic methods to study speech perception.
 
--> [More about me](about.html) and my [research](publications.html).
+-> [More about me](about.html) and my [research](publications.html).  
+-> [Full CV](CV_CYChang_public.pdf)
 
 ![*Seminyak Beach, Bali, Indonesia*](img/photo.JPG)
  
