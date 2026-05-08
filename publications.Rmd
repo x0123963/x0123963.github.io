@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 
+**Chang, C.-Y.** (accepted). How reliable is adult statistical learning? A critical review of literature since Saffran, Newport, and Aslin (1996). *Meta-Psychology.* [[preprint]](https://doi.org/10.31234/osf.io/js97h)  
+
 **Chang, C.-Y.** & L. D. Sanders (2026). Phonetic cue weighting as auditory feature-based selective attention. *Psychonomic Bulletin & Review, 33*(1), 43. [DOI: 10.3758/s13423-025-02834-y](https://doi.org/10.3758/s13423-025-02834-y)
 
 **Chang, C.-Y.** & L. D. Sanders (2025). Testing the roles of post-consonantal F0 perturbation and noise in tonogenesis. *Proceedings of the 60th Annual Meeting of the Chicago Linguistic Society*, 97-111.  
@@ -15,7 +17,6 @@ title: "Publications"
 </div>
 
 ## Manuscripts  
-
-**Chang, C.-Y.** (resubmitted). How reliable is adult statistical learning? A critical review of literature since Saffran, Newport, and Aslin (1996).  [[preprint]](https://doi.org/10.31234/osf.io/js97h)  
+**Chang, C.-Y.** & L. D. Sanders (in preparation). Temporal extension of post-consonantal F0 perturbation shifts perception of English stop voicing specifically in background noise. 
 
 **Chang, C.-Y.** & F.-F. Hsieh (in preparation). Probabilistic consonant-tone interaction in Mandarin Chinese is not generalizable to nonce words.   
