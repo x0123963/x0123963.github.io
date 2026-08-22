@@ -1,6 +1,19 @@
 ---
 title: "Ongoing projects"
 ---
+<div style="margin-bottom:35px;">
+</div>
+
+**Decoding phonetic cue weighting from EEG responses to naturalistic speech**   
+(Advised by Dr. Lisa Sanders)   
+
+L2 learners' cue weighting may be suboptimal due to interference from their native language. While cue weighting is adjustable, a prerequisite for targeted phonetic training is a thorough understanding of native and non-native listeners’ cue weighting.  
+
+To facilitate research on cue weighting, this project develops a measure based on representational similarity analysis of neural activities and speech stimuli, which has advantages over the typical behavioral methods:  
+
+- separating perceptual processes from post-perceptual influences  
+- maintaining ecologically validity in naturalistic listening (e.g., audiobooks)  
+- enhancing temporal resolution for research on real-time cue integration
 
 <div style="margin-bottom:35px;">
 </div>
@@ -28,17 +41,3 @@ Using English stop voicing as a testing case, this study examines cue weightings
 
 - Does **the temporal extent of F0 perturbation** contribute to voicing perception?
 - As F0 is more robust to noise, does **the presence of noise** modulate the F0 perturbation effects?
-
-<div style="margin-bottom:35px;">
-</div>
-
-**ERP responses to violations of morphophonological rules, phonological expectations, and phonetic cues**  
-(PI: Dr. Lisa Sanders; Co-PI: Dr. Alexandra Jesse)
-
-The phonetic realization of the English regular plural suffix is determined by its preceding context. When the stem ends with a non-sibilant sound, the suffix and the preceding sound agrees in voicing. It surfaces as /z/ after voiced sounds (e.g., [dogz] 'dogs') and /s/ after voiceless sounds (e.g., [kæts] 'cats').  
-
-By presenting listeners with various types of violations of this morphophonological rule, this study aims to determine:  
-
-1. the representation and processing of allomorphs during speech comprehension
-2. whether congruency of phonetic cues and phonotactic status influence morphophonological processing
-3. how predictability modulates other factors  

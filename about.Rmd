@@ -10,11 +10,12 @@ output:
 ## Education  
 **PhD in Cognition and Cognitive Neuroscience**  
 University of Massachusetts Amherst, United States  
+Dissertation: *Phonetic Cue Weighting: From Laboratories to the Wild*  
 Sept. 2022 - present  
 
 **MA in Linguistics**  
 National Tsing Hua University, Hsinchu, Taiwan  
-Thesis: *Neural responses to syllable gaps in Taiwanese Mandarin: an event-related potential study*  
+Thesis: *Neural responses to syllable gaps in Taiwanese Mandarin: An event-related potential study*  
 Sept. 2016 - Feb. 2020  
 
 **BSc in Interdisciplinary Program of Life Sciences**  
@@ -48,6 +49,10 @@ National Tsing Hua University, Hsinchu, Taiwan
 </div>
 
 ## Additional Training 
+**Genetics and Neurobiology of Language**  
+2026 Summer Course  
+Cold Spring Harbor Laboratory, United States    
+
 **2023 Summer Institute Student**  
 Linguistic Society of America  
 University of Massachusetts Amherst, United States
@@ -68,6 +73,13 @@ Academia Sinica, Taipei, Taiwan
 </div>
 
 ## Selected Awards & Honors
+**Taiwanese Overseas Pioneers Grants (NT$900,000)**  
+National Science and Technology Council of Taiwan, 2026  
+
+**Keith Rayner Memorial Graduate Student Research Award (US$1,300)**  
+Department of Psychological and Brain Sciences  
+University of Massachusetts Amherst, 2026  
+
 **Excellent Student Paper Award**  
 Taiwan Society of Cognitive Neuroscience Annual Meeting, 2025  
 
@@ -79,9 +91,6 @@ Foundation for Scholarly Exchange (Fulbright Taiwan), 2022 - 2024
 
 **University Graduate Fellowship (US$24,821)**  
 University of Massachusetts Amherst, 2022 - 2023    
-
-**Honorary Member of Phi Tau Phi Scholastic Honor Society**  
-Nominated by National Tsing Hua University, 2016  
 
 **New Undergraduate Merit Scholarship (NT$400,000)**    
 National Tsing Hua University, 2012 - 2016   
